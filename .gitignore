@@ -50,3 +50,5 @@ ehthumbs_vista.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
 node_modules/
+config.json
+users.json
