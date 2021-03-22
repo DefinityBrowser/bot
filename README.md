@@ -26,14 +26,15 @@ Content of token.json:
 }
 ```
 <br>
+
 `WEBHOOK_ID` and `WEBHOOK_TOKEN` are required if you enable `debug` in the config.
 
-<br><br>
+<br>
 We recommend that you change some elements of the code that are not editable in the config yet. <br>
 A primary example of this is ID_CHECK in ban, kick, warn and unwarn. This should be your bots id. <br>
 Another example is bot.user.setActivity ([ClientUser#setActivity](https://discord.js.org/#/docs/main/stable/class/ClientUser?scrollTo=setActivity)). 
 
 ## Contributing
-Contributions are welcome! Just make a Pull Request, we'll check if your code is useful, if it is - we will most likely add it! <br>
-If we deny your PR we will always give a proper reason, not just "this sucks" etc. <br>
+Contributions are welcome! Just make a Pull Request, we'll check if your code is useful, if it is - we will most likely add it! <br> <br>
+If we deny your PR we will always give a proper reason, not just "this sucks" etc. <br> <br>
 If your contribution gets denied, don't feel disheartened! You can always try adding something else that could be better for the bot.
