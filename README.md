@@ -17,7 +17,9 @@ Feel free to contribute!
 - **SERVER MEMBERS INTENT ENABLED**
 - `token.json`
 <br>
+
 Content of `token.json`:
+
 
 ```json
 {
