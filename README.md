@@ -1,6 +1,6 @@
 # Definity Bot
 Moderation Bot for our Discord server. <br>
-Primarily built by @sudocode1, restructed by @JBMagination.
+Primarily built by [@sudocode1](https://github.com/sudocode1), restructured by [@JBMagination](https://github.com/JBMagination).
 
 ## What does it do?
 This bot has all the moderation tools required for our [Discord Server](https://discord.gg/CWzsxwXvkK). This includes Banning, Kicking, a warning system and a few more tools.<br>
