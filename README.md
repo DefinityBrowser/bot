@@ -11,8 +11,8 @@ Feel free to contribute!
 **This bot is intended for use in one server, not across multiple servers.**
 
 ### Requirements
-- Node.js v15 (not tested on v14-)
-- discord.js NPM package
+- [Node.js](https://nodejs.org/en/) v15 (not tested on v14-)
+- [discord.js](https://discord.js.org) NPM package
 - The bot files
 - **SERVER MEMBERS INTENT ENABLED**
 - `token.json`
