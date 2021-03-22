@@ -33,7 +33,7 @@ Content of token.json:
 We recommend that you change some elements of the code that are not editable in the config yet. <br>
 A primary example of this is ID_CHECK in ban, kick, warn and unwarn. This should be your bots id. <br>
 Another example is bot.user.setActivity
-[ClientUser#setActivity](https://discord.js.org/#/docs/main/stable/class/ClientUser?scrollTo=setActivity). 
+[ClientUser#setActivity](https://discord.js.org/#/docs/main/stable/class/ClientUser?scrollTo=setActivity)
 
 ## Contributing
 Contributions are welcome! Just make a Pull Request, we'll check if your code is useful, if it is - we will most likely add it! <br> <br>
