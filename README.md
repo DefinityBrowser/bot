@@ -1,6 +1,6 @@
 # Definity Bot
 Discord bot for server moderation. <br>
-Primarily built by [@sudocode1](https://github.com/sudocode1), restructured by [@JBMagination](https://github.com/JBMagination).
+Primarily built by [@sudocode1](https://github.com/sudocode1).
 
 
 ## What does it do?
